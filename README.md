@@ -1,80 +1,55 @@
-# Hi, I'm Revathi 👋
+Hi, I'm revathi 👋
+🚀 Site Reliability Engineer | DevOps Engineer | Cloud Enthusiast
 
-### Cloud SRE | AWS | DevOps | Infrastructure Automation
+I am passionate about building reliable, scalable, and automated infrastructure. With experience in cloud technologies, container orchestration, CI/CD pipelines, and monitoring solutions, I enjoy solving complex operational challenges and improving system reliability.
 
-I'm a **Site Reliability Engineer with 2+ years of experience** in infrastructure operations, automation, monitoring, and cloud technologies.
+💻 Technologies & Tools
+Cloud & Infrastructure
+AWS
+Linux
+Docker
+Kubernetes
+Terraform
+CI/CD & Automation
+Jenkins
+GitHub Actions
+ArgoCD
+Bash Scripting
+Python
+Monitoring & Observability
+Prometheus
+Grafana
+ELK Stack
+Alertmanager
+Version Control
+Git
+GitHub
 
-I’m interested in building reliable systems, automating repetitive operational tasks, improving observability, and continuously learning modern cloud and SRE practices.
+📈 What I Do
+Design and manage cloud infrastructure
+Automate deployment and operational workflows
+Build CI/CD pipelines for faster software delivery
+Implement monitoring, logging, and alerting solutions
+Improve system reliability, performance, and availability
+Troubleshoot production issues and perform root cause analysis
 
----
+🌱 Currently Learning
+Advanced Kubernetes
+Service Mesh (Istio)
+AWS Architecture Best Practices
+Infrastructure Security
+Platform Engineering
 
-## 🛠️ Skills & Technologies
+🏆 Certifications
+Azure Adminsitrator
+Azure DevOps Expert
 
-**Cloud:**  
-AWS • EC2 • S3 • RDS • IAM • VPC • CloudWatch • Lambda • Route 53 • ELB • Auto Scaling
+📊 GitHub Stats
+GitHub Stats (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layoutkyonight
 
-**Infrastructure & Automation:**  
-Terraform • Ansible • Bash • PowerShell • AWS CLI
+📫 Connect With Me
+LinkedIn: linkedin.com/in/revathijammalamadugu
+GitHub: https://github.com/revathi9010
+Email: revathijammalamadugu@gmail.com
 
-**Monitoring & Observability:**  
-Prometheus • Grafana • AWS CloudWatch
-
-**DevOps:**  
-Git • Jenkins • CI/CD • Docker
-
-**Operating Systems:**  
-Linux • Amazon Linux • RHEL • Ubuntu
-
----
-
-## 🚀 What I'm Working On
-
-- ☁️ AWS Cloud & Infrastructure
-- ⚙️ Infrastructure as Code with Terraform
-- 🤖 Automation using Ansible and Bash
-- 📊 Monitoring and observability with Prometheus & Grafana
-- 🔄 CI/CD and deployment automation
-- 🐳 Learning Docker and Kubernetes
-- 💰 Exploring Cloud Cost Optimization and FinOps
-- 🧠 Building practical SRE and DevOps projects
-
----
-
-## 📚 Currently Learning
-
-```text
-AWS Cloud Engineering
-Terraform & Infrastructure as Code
-Docker & Kubernetes
-CI/CD Automation
-Python for Automation
-SRE & Observability
-FinOps & Cloud Cost Optimization
-```
-
----
-
-## 📂 Projects
-
-I'm building practical projects to strengthen my hands-on knowledge in:
-
-- AWS infrastructure
-- Terraform
-- Linux automation
-- Monitoring & alerting
-- CI/CD pipelines
-- Docker & Kubernetes
-- SRE practices
-- Cloud cost optimization
-
-More projects coming soon 🚀
-
----
-
-## 🎯 Career Interests
-
-**Site Reliability Engineering • AWS Cloud Engineering • DevOps • Infrastructure Automation • Observability • Platform Engineering • FinOps**
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Always interested in learning, automation, cloud-native technologies, and building reliable systems. ``
